@@ -1,0 +1,47 @@
+{
+    "coord":{
+       "lon":-1.6833,
+       "lat":53.6
+    },
+    "weather":[
+       {
+          "id":802,
+          "main":"Clouds",
+          "description":"scattered clouds",
+          "icon":"03n"
+       }
+    ],
+    "base":"stations",
+    "main":{
+       "temp":52.99,
+       "feels_like":51.42,
+       "temp_min":50.2,
+       "temp_max":55.51,
+       "pressure":1019,
+       "humidity":73,
+       "sea_level":1019,
+       "grnd_level":993
+    },
+    "visibility":10000,
+    "wind":{
+       "speed":7.74,
+       "deg":291,
+       "gust":22.17
+    },
+    "clouds":{
+       "all":37
+    },
+    "dt":1659658577,
+    "sys":{
+       "type":2,
+       "id":2072872,
+       "country":"GB",
+       "sunrise":1659673702,
+       "sunset":1659729426
+    },
+    "timezone":3600,
+    "id":2638065,
+    "name":"Shelley",
+    "cod":200
+ }
+ 
